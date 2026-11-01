@@ -1,0 +1,2 @@
+# EmbedPyFix
+纯本地 对选择的嵌入式python一键制作成可以正常装库的正常python版本
